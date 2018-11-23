@@ -1,6 +1,6 @@
 <?php
 
-class PessoaEntity
+class GrupoEntity
 {
     private $id;
 
